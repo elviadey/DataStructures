@@ -9,6 +9,7 @@ void heapify(int a[], int n, int i)
 	int left  = 2*i + 1; //left child
 	int right = 2*i + 2; //right child
 
+	//for building max-heap signs need to be reversed
 	if (left<n && a[left]<a[root]) //if left child is smaller than root
 		root = left;
 
