@@ -22,7 +22,7 @@ int partition(int a[], int low, int high)
 			swap(&a[i],&a[j]);
 		}
 	}
-	swap(&a[i], &a[high]);
+	swap(&a[i+1], &a[high]);
 	return (i+1);
 }
 
