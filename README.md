@@ -1,1 +1,1 @@
-All codes done as part of the Data Structures course [CS-1203] are in this repository.
+Thie repository contains code files from the course "Data Structures" [CS-1203] taken as part of requirements for my undergraduate degree.
